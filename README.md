@@ -2,8 +2,10 @@
 
 You can use following functions.
 
-- Python
+- Python (3.7.2)
+  - pip
 - Node.js
+  - npm
 - AWS CLI
 
 ## Docker run
