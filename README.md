@@ -1,5 +1,7 @@
 ## About
 
+You can use following functions.
+
 - Python
 - Node.js
 - AWS CLI
